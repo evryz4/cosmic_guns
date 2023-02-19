@@ -1,0 +1,4 @@
+RU:
+Спасибо за скачивание моей первой игры. Надеюсь вы поможите мне найти баги и улучшить игру! Заранее извиняюсь за мой непонятный недокументированный код) Надеюсь поймете.
+ENG:
+Thanks for downloading my first game. I hope you help me find bugs and improve the game! Sorry for my incomprehensible undocumented code) I hope you understand.
